@@ -1,0 +1,19 @@
+body{
+    background-color: #0f074b;
+}
+
+#logo_centrale{
+    padding-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#logo_comune{
+    padding-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
